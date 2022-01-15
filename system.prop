@@ -116,6 +116,7 @@ persist.radio.redir_party_num=0
 
 # SdcardFs
 persist.fuse_sdcard=false
+persist.sys.fflag.override.settings_fuse=false
 
 # USB
 ro.default_usb_mode=0
